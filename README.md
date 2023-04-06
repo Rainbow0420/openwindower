@@ -261,19 +261,19 @@
       height="40"
     />
   </a>
-  <!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
       width="40"
       height="40"
     />
-  </a> -->
+  </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/110062591/199664030-9e8cb78a-e462-4368-995a-a792a1c0ed69.gif" />
-</p>
+</p> -->
 
 <!--
 **openwindower/openwindower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
