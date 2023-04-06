@@ -61,8 +61,6 @@
 <a href="mailto:openwindower@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
 
 ## *Language and Tools*
-<br>
-<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
