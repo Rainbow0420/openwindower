@@ -1,13 +1,13 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Rainbow</h1>
+<h1 align="center">Hi 😄, I'm Rainbow</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
 <div align="center">
-<img
+<!-- <img
     src="https://raw.githubusercontent.com/Blue-BigTech/Moonhub-Images/master/pair_programming.svg"
     width="600"
     height="340"
-  />
+  /> -->
   
 </div>
 
@@ -261,14 +261,14 @@
       height="40"
     />
   </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
